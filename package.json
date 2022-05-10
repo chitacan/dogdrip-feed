@@ -1,0 +1,19 @@
+{
+  "name": "dogdrip-feed",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "feed": "^4.2.2",
+    "got": "^12.0.0"
+  }
+}
